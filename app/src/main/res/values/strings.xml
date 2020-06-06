@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Music Master</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_tune">Play Tune</string>
+    <string name="done">DONE</string>
+    <string name="zero">0</string>
+    <string name="score">Score:</string>
+    <string name="dotune">Do</string>
+    <string name="retune">Re</string>
+    <string name="mitune">Mi</string>
+    <string name="fatune">Fa</string>
+    <string name="sotune">So</string>
+    <string name="latune">La</string>
+    <string name="titune">Ti</string>
+    <string name="display_score">Your score is...</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="playagain">play again</string>
+    <string name="title">MUSIC MASTER</string>
+    <string name="play">play</string>
+    <string name="rulestitle">How to Play?</string>
+    <string name="rules">
+        \n Press \"PLAY TUNE\" button and listen to the tune.
+        \n\n Play the tunes exactly as you heard and press \"DONE\".
+        \n\n If it was right, your score will increase by 1.
+        \n\nThe game ends when you play a wrong tune.
+        \n\n\n Show you mastery in remembering tunes! All the best!
+    </string>
+    <string name="rulesmenu">Rules</string>
+</resources>
